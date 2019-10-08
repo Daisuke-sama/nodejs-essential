@@ -1,0 +1,12 @@
+{
+  "name": "nodejs-essential",
+  "version": "1.0.0",
+  "description": "preps for the talk",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["nodejs","training","basics"],
+  "author": "Paul Burilichev",
+  "license": "ISC"
+}
