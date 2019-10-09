@@ -16,4 +16,3 @@ fs.readdir('./assets', (err, files) => {
     console.log('finished');
     console.log(files);
 });
-
