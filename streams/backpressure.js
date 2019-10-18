@@ -13,7 +13,7 @@ readStream.on('data', chunk => {
 });
 
 readStream.on('end', () => {
-    writeStream.end()
+    writeStream.end();
 });
 
 readStream.on('error', err => {
