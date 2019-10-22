@@ -15,6 +15,7 @@
   "author": "Paul Burilichev",
   "license": "ISC",
   "dependencies": {
-    "log-update": "^3.3.0"
+    "log-update": "^3.3.0",
+    "multiparty": "^4.2.1"
   }
 }
