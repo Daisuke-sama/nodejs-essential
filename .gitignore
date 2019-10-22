@@ -3,3 +3,4 @@ assets/notes.md
 node_modules/
 .idea/
 storage/
+.vscode/
